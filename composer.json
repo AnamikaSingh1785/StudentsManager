@@ -1,6 +1,6 @@
 {
-    "name": "your-name-here/StudentsManager",
-    "description": "StudentsManager plugin for CakePHP",
+    "name": "saviobosco/StudentsManager",
+    "description": "StudentsManager plugin for School Management System",
     "type": "cakephp-plugin",
     "require": {
         "php": ">=5.4.16",
