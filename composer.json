@@ -1,5 +1,5 @@
 {
-    "name": "saviobosco/StudentsManager",
+    "name": "saviobosco/studentsmanager",
     "description": "StudentsManager plugin for School Management System",
     "type": "cakephp-plugin",
     "require": {
